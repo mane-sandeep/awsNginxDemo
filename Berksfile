@@ -1,0 +1,16 @@
+
+# cookbook 'varnish', '0.9.12'
+cookbook 'gunicorn', '1.1.2'
+cookbook 'supervisor', '0.4.10'
+cookbook 'build-essential', '1.4.2'
+cookbook 'apt', '2.3.8'
+cookbook 'yum', '3.1.2'
+cookbook 'yum-epel', '0.3.4'
+cookbook 'git', '3.1.0'
+# cookbook 'sqlite', '1.0.0'
+cookbook 'ulimit', '0.3.2'
+cookbook 'nfs', '1.0.0'
+cookbook 'line', '0.5.1'
+cookbook 'python', '1.4.6'
+cookbook 'runit', '1.5.10'
+
