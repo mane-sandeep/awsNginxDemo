@@ -1,3 +1,5 @@
+# source 'http://cookbooks.opscode.com/api/v1/cookbooks'
+source 'https://api.berkshelf.com'
 
 # cookbook 'varnish', '0.9.12'
 cookbook 'gunicorn', '1.1.2'
